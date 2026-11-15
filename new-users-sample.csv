@@ -1,0 +1,3 @@
+FirstName,LastName,UserPrincipalName,JobTitle,Department,UsageLocation,LicenseSku,Groups,ManagerUPN
+Jane,Doe,jane.doe@contoso.com,Sales Executive,Sales,IE,SPB,All Staff;Sales Team,mark.lee@contoso.com
+Ali,Khan,ali.khan@contoso.com,Accountant,Finance,IE,O365_BUSINESS_PREMIUM,All Staff;Finance,sara.ahmed@contoso.com
